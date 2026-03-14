@@ -96,6 +96,3 @@ Example Output
 
 ✅ This Email is NOT SPAM (10% spam words)
 
-👨‍💻 Author
-
-Name ADITYA RAHATE
